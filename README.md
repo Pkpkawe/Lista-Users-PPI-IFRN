@@ -29,3 +29,7 @@ A API fornece informações como:
 - Empresa;
 - Cargo;
 - Cidade e estado.
+
+## 📸 Resultado
+
+![Prévia da aplicação](result.png)
